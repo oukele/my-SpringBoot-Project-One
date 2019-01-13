@@ -3,7 +3,7 @@
 
 #### SpringBoot
    
-Spring 三大特性：
+Spring 四大特性：
 + starter 一个功能依赖
 + Automatic configuration 自动配置
 + cli 操作
