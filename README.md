@@ -2,6 +2,13 @@
 使用idea 搭建一个 SpringBoot + Mybatis + logback 的maven 项目（One）
 
 #### SpringBoot
+   
+Spring 三大特性：
++ starter 一个功能依赖
++ Automatic configuration 自动配置
++ cli 操作
++ 监控容器
+
 ~~~
 1.	含义：简化Spring应用开发，一个快速开发框架
 2.	官网：https://spring.io/projects/spring-boot
