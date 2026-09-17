@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.mariadb.jdbc</groupId>
             <artifactId>mariadb-java-client</artifactId>
-            <version>2.3.0</version>
+            <version>2.7.14</version>
         </dependency>
         <!--c3p0 连接池-->
 <!--         <dependency>
@@ -100,7 +100,7 @@
                     <dependency>
                         <groupId>org.mariadb.jdbc</groupId>
                         <artifactId>mariadb-java-client</artifactId>
-                        <version>2.3.0</version>
+                        <version>2.7.14</version>
                     </dependency>
                 </dependencies>
             </plugin>
